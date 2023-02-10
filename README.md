@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robomano-glitch
 - 👀 I’m interested in neuro networks
-- 🌱 I’m currently learning ruby on rails and python 
+- 🌱 I’m currently learning React and python 
 - 💞️ I’m looking to collaborate on NativeScript and Vue JS
 - 📫 How to reach me @rsageme
 
